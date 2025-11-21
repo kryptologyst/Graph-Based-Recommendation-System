@@ -1,0 +1,501 @@
+item_id,title,category,tags,price
+item_0000,Camera 0,electronics,trending|sale,130.71794445914537
+item_0001,Sofa 1,home,popular|durable|sale|trending|premium,398.36965869630666
+item_0002,Basketball 2,sports,popular|sale,369.62886281930923
+item_0003,Manual 3,books,stylish|popular|eco-friendly|sale|durable,268.6314037000133
+item_0004,Chocolate 4,food,popular|trending|durable,450.41743558343654
+item_0005,Action Figure 5,toys,durable|trending|eco-friendly,71.08901303241886
+item_0006,Cookbook 6,books,new|premium|popular,289.09564931371546
+item_0007,Biography 7,books,sale|new|trending,90.01292417880394
+item_0008,Puzzle 8,toys,new|trending,87.83047073718767
+item_0009,Action Figure 9,toys,popular|new|eco-friendly|durable|premium,170.3561131128355
+item_0010,Smart Phone 10,electronics,eco-friendly|new,232.9507930787065
+item_0011,Doll 11,toys,trending|stylish|eco-friendly|sale,252.49396414136916
+item_0012,Novel 12,books,popular|durable|sale|trending,132.31396554335217
+item_0013,Foundation 13,beauty,durable|stylish,320.70314823091786
+item_0014,Dumbbells 14,sports,sale|durable|trending,17.98989187538736
+item_0015,Textbook 15,books,popular|durable|sale|stylish|premium,138.63850974555277
+item_0016,Tennis Racket 16,sports,durable|trending|eco-friendly,40.04728158918323
+item_0017,Shoes 17,clothing,new|premium|sale|durable,357.60735716247234
+item_0018,Perfume 18,beauty,sale|popular|stylish|premium|new,429.85940147406046
+item_0019,Novel 19,books,trending|durable|stylish|new|eco-friendly,289.05100087480474
+item_0020,Laptop 20,electronics,new|trending,436.59441286209875
+item_0021,Biography 21,books,premium|durable,68.26247866221676
+item_0022,Cookbook 22,books,new|trending|eco-friendly|durable|premium,39.28563774425965
+item_0023,Manual 23,books,popular|premium|new,400.332158289875
+item_0024,Yoga Mat 24,sports,stylish|eco-friendly|durable,84.86576408529889
+item_0025,Building Blocks 25,toys,stylish|sale,151.6343691434318
+item_0026,Bed 26,home,eco-friendly|sale|durable|stylish,101.48020575609192
+item_0027,Building Blocks 27,toys,eco-friendly|new|popular|trending,96.25607252920037
+item_0028,Lamp 28,home,sale|premium,178.08164866288124
+item_0029,Bed 29,home,premium|new|trending|durable|popular,104.63019172923089
+item_0030,T-Shirt 30,clothing,trending|new,159.15323275047837
+item_0031,Building Blocks 31,toys,sale|trending,384.03642165630566
+item_0032,Dumbbells 32,sports,popular|eco-friendly|new|premium,19.932400779795774
+item_0033,Shampoo 33,beauty,sale|eco-friendly,123.18503786797659
+item_0034,Smart Phone 34,electronics,stylish|eco-friendly|new|sale,181.70706018988525
+item_0035,Jeans 35,clothing,trending|popular|new|stylish,128.7749593634256
+item_0036,Dumbbells 36,sports,trending|sale|premium|durable|popular,459.59512998235164
+item_0037,Jeans 37,clothing,stylish|sale|popular|premium,293.7726792102
+item_0038,Foundation 38,beauty,new|premium,487.2227006547254
+item_0039,Shoes 39,clothing,durable|new|trending|sale,409.55023424801306
+item_0040,Smart Phone 40,electronics,stylish|popular|eco-friendly|new,359.9890967827059
+item_0041,Perfume 41,beauty,stylish|popular,233.58141329048033
+item_0042,Tennis Racket 42,sports,sale|durable|premium,110.95077984398785
+item_0043,Chair 43,home,sale|premium,133.78353569486958
+item_0044,Bed 44,home,new|eco-friendly,236.9957361533063
+item_0045,Lamp 45,home,premium|popular|durable,99.50633740563535
+item_0046,Jacket 46,clothing,sale|popular|trending,340.6328085210918
+item_0047,Action Figure 47,toys,premium|stylish|new,104.33560405942484
+item_0048,Basketball 48,sports,eco-friendly|trending|durable|sale|popular,271.4187546330785
+item_0049,Perfume 49,beauty,premium|stylish|new|sale,471.2320756931957
+item_0050,Board Game 50,toys,popular|new,448.00608723401245
+item_0051,Jacket 51,clothing,stylish|sale|durable|popular|trending,203.47208988486034
+item_0052,Foundation 52,beauty,sale|stylish,308.8077124095638
+item_0053,Building Blocks 53,toys,eco-friendly|premium|new,459.4748423412938
+item_0054,Chocolate 54,food,trending|sale|eco-friendly|premium,162.03613953007354
+item_0055,Novel 55,books,new|popular,24.365628301605128
+item_0056,T-Shirt 56,clothing,trending|eco-friendly|stylish|new|premium,99.05631551765588
+item_0057,Jacket 57,clothing,trending|sale|premium|stylish,219.78607390843626
+item_0058,Textbook 58,books,stylish|new|durable|eco-friendly|trending,380.06590028797643
+item_0059,Doll 59,toys,stylish|sale|eco-friendly|popular|durable,116.92440779928813
+item_0060,Smart Phone 60,electronics,durable|new|trending|premium|popular,220.6244144161116
+item_0061,Tennis Racket 61,sports,trending|premium|sale|durable,231.51751963276908
+item_0062,Action Figure 62,toys,premium|durable,76.40019522247107
+item_0063,Table 63,home,trending|eco-friendly|stylish,203.04102491680837
+item_0064,Headphones 64,electronics,eco-friendly|premium|stylish|popular,382.66077903117383
+item_0065,Cereal 65,food,durable|eco-friendly|popular|new,361.19514351391075
+item_0066,Action Figure 66,toys,eco-friendly|sale|new|stylish|popular,252.35954333253662
+item_0067,Dress 67,clothing,new|durable,445.7521108152583
+item_0068,Shampoo 68,beauty,sale|stylish|eco-friendly|premium|durable,489.34181100560227
+item_0069,Puzzle 69,toys,popular|sale|eco-friendly|stylish|new,336.4688828339755
+item_0070,Chocolate 70,food,durable|stylish|premium,353.5229197238399
+item_0071,Tennis Racket 71,sports,premium|durable|stylish|new|sale,458.840265871963
+item_0072,Jacket 72,clothing,eco-friendly|new|trending|popular,413.37287166851155
+item_0073,Doll 73,toys,trending|durable|popular|sale|stylish,227.00057169391533
+item_0074,Jacket 74,clothing,durable|premium,337.0891209298431
+item_0075,Jacket 75,clothing,stylish|trending,451.38940312880595
+item_0076,Coffee 76,food,eco-friendly|sale|stylish|durable|trending,193.52997206761577
+item_0077,Yoga Mat 77,sports,trending|stylish|new|premium,456.6878499091696
+item_0078,Camera 78,electronics,new|trending|popular|sale,278.0491803741214
+item_0079,Chocolate 79,food,trending|durable,108.25410913151127
+item_0080,Cookbook 80,books,stylish|new|eco-friendly|popular,163.5306377541446
+item_0081,Jeans 81,clothing,popular|stylish,235.74321468720703
+item_0082,Dress 82,clothing,new|sale|trending,189.05868134810112
+item_0083,Bed 83,home,eco-friendly|new,252.59530049664653
+item_0084,Puzzle 84,toys,stylish|new|sale|trending,56.53897894442158
+item_0085,Perfume 85,beauty,new|trending,358.02425608195085
+item_0086,Chair 86,home,popular|sale|trending,106.01884235645531
+item_0087,Basketball 87,sports,sale|eco-friendly|premium|durable|trending,378.6485467743321
+item_0088,Dumbbells 88,sports,new|stylish|premium,299.022536825227
+item_0089,Lamp 89,home,popular|new,399.269461370036
+item_0090,Puzzle 90,toys,durable|stylish|premium,494.294189961128
+item_0091,Shoes 91,clothing,trending|popular,190.31983410956707
+item_0092,Board Game 92,toys,trending|sale,77.84238829193262
+item_0093,Shampoo 93,beauty,premium|popular|eco-friendly,183.9124027767167
+item_0094,Headphones 94,electronics,trending|durable,115.13156174496758
+item_0095,Board Game 95,toys,durable|sale|premium|new|popular,310.65625057937956
+item_0096,Perfume 96,beauty,premium|trending,427.78499436329724
+item_0097,Tea 97,food,durable|sale|eco-friendly|new,104.34206068464894
+item_0098,Perfume 98,beauty,premium|trending|eco-friendly,17.032141696793822
+item_0099,Sofa 99,home,trending|eco-friendly|stylish,57.485132992127426
+item_0100,Laptop 100,electronics,eco-friendly|popular|stylish|premium,94.37237850232374
+item_0101,Lamp 101,home,sale|stylish|popular|eco-friendly,159.8218233462924
+item_0102,Building Blocks 102,toys,sale|new,285.0143721893055
+item_0103,Snacks 103,food,sale|eco-friendly|popular,318.2654403054109
+item_0104,Shampoo 104,beauty,eco-friendly|trending|sale|premium,372.4862159978127
+item_0105,Textbook 105,books,durable|stylish|sale|trending|new,280.46735568317206
+item_0106,Running Shoes 106,sports,stylish|durable|popular|trending,230.83726141654242
+item_0107,Cereal 107,food,stylish|durable|premium|new|sale,375.32829635032203
+item_0108,Coffee 108,food,premium|stylish|eco-friendly,271.9602104052513
+item_0109,Textbook 109,books,premium|durable,63.54039456389972
+item_0110,Bed 110,home,eco-friendly|trending|new|premium|durable,400.7821342066836
+item_0111,Shoes 111,clothing,trending|stylish|new,303.028998769952
+item_0112,Chair 112,home,trending|eco-friendly|new|stylish|premium,374.70943318084574
+item_0113,Headphones 113,electronics,premium|popular,310.3630724112073
+item_0114,Chocolate 114,food,sale|durable|eco-friendly|trending,400.6889870661227
+item_0115,Shampoo 115,beauty,sale|durable,40.933778558982006
+item_0116,Perfume 116,beauty,trending|new|sale|eco-friendly,338.6409389884547
+item_0117,Doll 117,toys,new|sale,166.80239402306057
+item_0118,Novel 118,books,durable|eco-friendly|new|premium,242.07346730999947
+item_0119,Jacket 119,clothing,sale|stylish|premium,263.32930577418267
+item_0120,Shampoo 120,beauty,eco-friendly|durable|new,254.64886656989603
+item_0121,Foundation 121,beauty,popular|durable,193.97104882803413
+item_0122,Bed 122,home,popular|stylish|premium,41.10995045920589
+item_0123,Dress 123,clothing,popular|trending|eco-friendly|stylish|durable,429.92421202286897
+item_0124,Cookbook 124,books,trending|new|durable|premium,16.18373242368252
+item_0125,Yoga Mat 125,sports,new|premium|sale,302.72545668170494
+item_0126,Snacks 126,food,sale|eco-friendly|trending|popular,193.72438144694533
+item_0127,Tablet 127,electronics,eco-friendly|durable|premium,59.154100379110616
+item_0128,Chocolate 128,food,stylish|premium,85.39285503238015
+item_0129,Foundation 129,beauty,trending|durable|eco-friendly|premium|new,226.59352813090766
+item_0130,Yoga Mat 130,sports,stylish|new,40.592799173725275
+item_0131,Moisturizer 131,beauty,popular|sale|trending|eco-friendly|premium,350.0301727115805
+item_0132,Bed 132,home,trending|popular|eco-friendly|stylish|durable,288.49397253344415
+item_0133,Lamp 133,home,premium|eco-friendly,223.77089605416572
+item_0134,Snacks 134,food,eco-friendly|trending|premium,239.6218500449965
+item_0135,Table 135,home,sale|durable|eco-friendly|popular,236.40930292836882
+item_0136,Manual 136,books,new|durable,138.5505935327201
+item_0137,Foundation 137,beauty,stylish|popular|new|durable,192.61128679296058
+item_0138,Sofa 138,home,premium|stylish|trending|new,53.23481938996089
+item_0139,Yoga Mat 139,sports,durable|stylish,361.47658432689184
+item_0140,Perfume 140,beauty,premium|sale,301.29365211863546
+item_0141,Smart Phone 141,electronics,sale|eco-friendly|durable|popular|trending,30.220724357089367
+item_0142,Novel 142,books,popular|trending|stylish|eco-friendly,88.5759617459111
+item_0143,Tea 143,food,new|sale|premium|durable|popular,143.22328017881398
+item_0144,Dumbbells 144,sports,premium|sale|eco-friendly|stylish,250.19939856075786
+item_0145,T-Shirt 145,clothing,premium|durable,467.82170402630277
+item_0146,Running Shoes 146,sports,trending|durable|new|eco-friendly,377.31436622618503
+item_0147,Cereal 147,food,eco-friendly|stylish|premium|sale|popular,77.08873831367637
+item_0148,Yoga Mat 148,sports,trending|sale,164.252404805678
+item_0149,Running Shoes 149,sports,new|stylish|trending,101.29038990539422
+item_0150,Table 150,home,popular|trending|eco-friendly|durable|stylish,370.7115261174428
+item_0151,Puzzle 151,toys,durable|eco-friendly|new|trending,146.85087293914117
+item_0152,Tennis Racket 152,sports,premium|stylish|new|popular,320.03041090748593
+item_0153,Smart Phone 153,electronics,premium|popular|sale|eco-friendly|trending,207.9046874885663
+item_0154,Cereal 154,food,eco-friendly|popular,349.76170313189874
+item_0155,Tea 155,food,premium|trending|eco-friendly|durable,113.94373472659937
+item_0156,Foundation 156,beauty,sale|premium|durable|stylish,317.4334045224447
+item_0157,Manual 157,books,sale|new|premium,198.03287906128733
+item_0158,Cookbook 158,books,stylish|popular|eco-friendly|durable|new,348.89845039341145
+item_0159,Cereal 159,food,popular|sale,22.77263739697345
+item_0160,Running Shoes 160,sports,popular|stylish|premium|sale|trending,24.532050342427674
+item_0161,Smart Phone 161,electronics,durable|sale|premium|stylish|new,180.71014945000812
+item_0162,Cookbook 162,books,sale|stylish|premium|trending,383.754757449369
+item_0163,Shoes 163,clothing,trending|durable,483.82442940360244
+item_0164,Dress 164,clothing,eco-friendly|trending,279.7470289774067
+item_0165,Puzzle 165,toys,sale|trending|stylish|new|popular,172.11738438759605
+item_0166,Tea 166,food,new|eco-friendly|premium,174.61821495686326
+item_0167,Jacket 167,clothing,sale|trending,37.50712040080971
+item_0168,Dumbbells 168,sports,eco-friendly|trending|stylish|durable|premium,133.1433497754674
+item_0169,Building Blocks 169,toys,sale|popular|trending|durable,105.86739581082648
+item_0170,Headphones 170,electronics,premium|sale,315.2391584362008
+item_0171,Cookbook 171,books,premium|popular,390.87184660202405
+item_0172,Textbook 172,books,trending|new|premium|eco-friendly|popular,450.92552294347973
+item_0173,Shoes 173,clothing,durable|premium|stylish,154.5138055842032
+item_0174,Bed 174,home,premium|stylish|durable|new,297.51571427573344
+item_0175,Moisturizer 175,beauty,stylish|sale|eco-friendly|durable|new,100.81589875136467
+item_0176,Moisturizer 176,beauty,premium|sale,397.0885242302822
+item_0177,Snacks 177,food,popular|trending|stylish|sale,434.2841844575694
+item_0178,Chair 178,home,trending|stylish|sale|durable,444.26807841960846
+item_0179,Tea 179,food,durable|premium|eco-friendly|trending|new,390.8419748008123
+item_0180,Camera 180,electronics,stylish|new,103.51617320115653
+item_0181,Chair 181,home,popular|sale|premium|eco-friendly|durable,437.31090389889675
+item_0182,Table 182,home,popular|durable|sale|trending|premium,480.2524122699922
+item_0183,Doll 183,toys,durable|premium|trending,136.1500040428695
+item_0184,Laptop 184,electronics,premium|eco-friendly|trending|new|sale,312.8383654752694
+item_0185,Smart Phone 185,electronics,new|eco-friendly|sale,145.87251957152748
+item_0186,Tablet 186,electronics,stylish|sale|new|trending|premium,132.32854545156835
+item_0187,Tea 187,food,stylish|trending|sale|popular|new,383.43927793346023
+item_0188,Yoga Mat 188,sports,eco-friendly|trending,231.2148345402404
+item_0189,Headphones 189,electronics,popular|stylish|eco-friendly,273.7279084669431
+item_0190,Yoga Mat 190,sports,new|premium|durable,303.55966425360214
+item_0191,T-Shirt 191,clothing,premium|sale|stylish|durable|popular,161.88683975975607
+item_0192,Headphones 192,electronics,premium|popular|sale,453.64916778062945
+item_0193,Tennis Racket 193,sports,new|popular|sale|durable,141.25841487658795
+item_0194,Foundation 194,beauty,premium|sale|stylish,191.93002065239267
+item_0195,Doll 195,toys,premium|trending|popular,461.71455340236275
+item_0196,Basketball 196,sports,eco-friendly|premium,132.3868163010645
+item_0197,Novel 197,books,sale|popular|trending,183.69987988343962
+item_0198,Running Shoes 198,sports,eco-friendly|premium|stylish|popular,132.74578247350462
+item_0199,Puzzle 199,toys,eco-friendly|premium|sale,12.094849062702837
+item_0200,Yoga Mat 200,sports,durable|premium|sale,457.18836257447407
+item_0201,Lipstick 201,beauty,trending|durable|new|premium|stylish,37.85113992911161
+item_0202,Table 202,home,sale|popular|new,296.64704947700943
+item_0203,Chair 203,home,sale|stylish|new|premium|eco-friendly,321.9482680380738
+item_0204,Shoes 204,clothing,popular|sale|new|trending|durable,272.8222916248216
+item_0205,Lamp 205,home,eco-friendly|trending|popular|premium,441.7733433523454
+item_0206,Tea 206,food,popular|durable|new|premium|sale,181.549067723483
+item_0207,Biography 207,books,durable|trending,483.0675535699016
+item_0208,Action Figure 208,toys,eco-friendly|new|popular|sale|stylish,39.35330349164824
+item_0209,Yoga Mat 209,sports,durable|premium,51.55102796070985
+item_0210,Dress 210,clothing,popular|trending|durable,444.09081570891726
+item_0211,Lamp 211,home,popular|new|stylish,14.518914057741199
+item_0212,Cereal 212,food,eco-friendly|durable|popular|sale,467.8832865137629
+item_0213,Cookbook 213,books,eco-friendly|trending|popular|new,334.8841514173938
+item_0214,Puzzle 214,toys,durable|trending|popular|stylish|premium,187.99320908951685
+item_0215,Tablet 215,electronics,popular|stylish|sale|eco-friendly|new,77.13540405732992
+item_0216,Perfume 216,beauty,trending|sale,355.46327682073877
+item_0217,Foundation 217,beauty,stylish|eco-friendly,458.8943134961225
+item_0218,Sofa 218,home,premium|popular|new|trending|durable,102.48252439226859
+item_0219,Perfume 219,beauty,eco-friendly|premium|popular|sale,325.7942327301429
+item_0220,Coffee 220,food,stylish|trending|durable|eco-friendly|new,237.16611792253445
+item_0221,Foundation 221,beauty,durable|popular,27.996812563898626
+item_0222,T-Shirt 222,clothing,durable|stylish|new,171.4321836191948
+item_0223,Bed 223,home,stylish|trending|new,150.63008774869525
+item_0224,Manual 224,books,trending|popular|premium,210.24330075303857
+item_0225,Dress 225,clothing,new|sale|durable|popular,255.08292230022613
+item_0226,Snacks 226,food,new|premium|sale|popular,416.09145613423624
+item_0227,Basketball 227,sports,popular|premium,457.09501821767867
+item_0228,Manual 228,books,premium|trending|durable|eco-friendly|sale,141.48222190846943
+item_0229,Tennis Racket 229,sports,premium|eco-friendly,251.56243333101378
+item_0230,Building Blocks 230,toys,eco-friendly|popular|stylish|new,339.51517529542826
+item_0231,Cookbook 231,books,sale|eco-friendly|trending|popular,324.7401770558912
+item_0232,Shampoo 232,beauty,sale|trending,43.69759496586243
+item_0233,Novel 233,books,premium|new|popular,191.90511789231854
+item_0234,Jacket 234,clothing,stylish|sale|popular|trending|durable,207.8072069537653
+item_0235,Sofa 235,home,sale|stylish|popular|durable|premium,230.77148356847417
+item_0236,Shoes 236,clothing,sale|popular|durable|stylish,489.89415163656275
+item_0237,Puzzle 237,toys,popular|durable|stylish|new,175.1217299962128
+item_0238,Bed 238,home,trending|popular|eco-friendly,27.355296907623234
+item_0239,Cereal 239,food,durable|premium|popular|sale,172.67586607761723
+item_0240,Lipstick 240,beauty,sale|durable|stylish,481.3662161892947
+item_0241,Bed 241,home,eco-friendly|durable,369.277589094891
+item_0242,Novel 242,books,durable|popular|new,436.565806921881
+item_0243,Bed 243,home,stylish|premium,273.1663657926298
+item_0244,Action Figure 244,toys,stylish|new|premium,310.20401110447955
+item_0245,Smart Phone 245,electronics,durable|popular|sale|new|stylish,162.85005225685043
+item_0246,Smart Phone 246,electronics,stylish|trending|new|premium,81.28649830363747
+item_0247,Lamp 247,home,durable|premium|stylish|new|trending,103.74220283557621
+item_0248,Camera 248,electronics,trending|sale|popular,32.104387804993
+item_0249,Doll 249,toys,trending|durable|premium|stylish,216.54938877504333
+item_0250,Table 250,home,stylish|new|trending,92.84285997066037
+item_0251,Dress 251,clothing,sale|eco-friendly,421.3076385083077
+item_0252,Basketball 252,sports,eco-friendly|stylish|premium|new,88.68756665433166
+item_0253,T-Shirt 253,clothing,trending|sale|new,175.39891841915937
+item_0254,Biography 254,books,popular|stylish|new|durable|sale,498.1138873597669
+item_0255,Coffee 255,food,eco-friendly|stylish|popular,16.74469973434599
+item_0256,Action Figure 256,toys,sale|new,347.29306777471186
+item_0257,Building Blocks 257,toys,sale|premium,325.81731647847647
+item_0258,Cereal 258,food,popular|premium|eco-friendly|durable,299.2975969237504
+item_0259,Yoga Mat 259,sports,eco-friendly|sale|new|trending,460.8252383729095
+item_0260,Dumbbells 260,sports,eco-friendly|new|sale|stylish,196.15354242293083
+item_0261,Smart Phone 261,electronics,popular|trending|durable|sale|new,80.83481827487661
+item_0262,Headphones 262,electronics,premium|new|durable|popular,150.45205789564773
+item_0263,Snacks 263,food,new|durable|premium,213.71964996104492
+item_0264,Jacket 264,clothing,new|premium|eco-friendly|sale|trending,23.833215945043385
+item_0265,Lamp 265,home,durable|popular|stylish,128.98647665473695
+item_0266,Smart Phone 266,electronics,stylish|sale|trending|premium,177.64924547554918
+item_0267,Cereal 267,food,sale|trending,217.0413438936386
+item_0268,Shoes 268,clothing,new|eco-friendly,439.4401594039462
+item_0269,Yoga Mat 269,sports,eco-friendly|sale|durable,190.82458062747293
+item_0270,Biography 270,books,durable|eco-friendly|trending|sale|new,227.263876258386
+item_0271,Building Blocks 271,toys,durable|new|trending,118.11651289268895
+item_0272,Perfume 272,beauty,popular|trending|eco-friendly|premium|new,198.1673645663203
+item_0273,Board Game 273,toys,durable|popular,489.25298133464906
+item_0274,Yoga Mat 274,sports,premium|popular|sale|new,256.49462698195214
+item_0275,Novel 275,books,sale|eco-friendly,314.75616140712975
+item_0276,Laptop 276,electronics,trending|stylish|eco-friendly|premium,84.60746375481956
+item_0277,Action Figure 277,toys,sale|stylish|premium|eco-friendly|popular,499.03005226205624
+item_0278,Table 278,home,eco-friendly|stylish|new|popular|durable,466.85242997160947
+item_0279,Laptop 279,electronics,new|eco-friendly|stylish|durable|trending,269.62444363633955
+item_0280,Manual 280,books,popular|trending|premium,172.55578092372065
+item_0281,Foundation 281,beauty,durable|stylish|new|sale|premium,164.10621302159856
+item_0282,Novel 282,books,premium|new|stylish|sale|popular,311.07998173489824
+item_0283,Tablet 283,electronics,stylish|sale|eco-friendly|durable|popular,349.1130672928854
+item_0284,Building Blocks 284,toys,trending|popular|durable|new|eco-friendly,388.58938038662944
+item_0285,Jacket 285,clothing,popular|durable|stylish|new|premium,246.03568512356443
+item_0286,Shampoo 286,beauty,stylish|popular,10.163154263702895
+item_0287,Jeans 287,clothing,popular|premium,360.27022698898753
+item_0288,Shoes 288,clothing,popular|durable|trending|new|sale,489.4714359575831
+item_0289,Chair 289,home,eco-friendly|new|stylish|sale,447.0652572600467
+item_0290,Chair 290,home,new|sale|stylish|popular,362.69128214301026
+item_0291,Cookbook 291,books,popular|premium|durable,180.5636258033247
+item_0292,Chair 292,home,durable|trending|eco-friendly|sale|popular,370.3301483689381
+item_0293,Snacks 293,food,popular|new|trending,449.41242337575653
+item_0294,Running Shoes 294,sports,eco-friendly|sale|new|trending,239.44539532211536
+item_0295,Doll 295,toys,sale|trending,347.81173713095126
+item_0296,Dress 296,clothing,popular|sale|stylish|eco-friendly|trending,375.44251389534526
+item_0297,Tablet 297,electronics,new|eco-friendly|popular,389.95311233354755
+item_0298,Tea 298,food,popular|eco-friendly|trending|stylish,287.0701252648972
+item_0299,Lamp 299,home,trending|eco-friendly|premium|popular,187.1979450767287
+item_0300,Textbook 300,books,stylish|durable,246.89984151844206
+item_0301,T-Shirt 301,clothing,new|popular|eco-friendly|premium,353.4610601186988
+item_0302,Tea 302,food,eco-friendly|popular|trending,192.35713981567838
+item_0303,Snacks 303,food,new|popular,299.1665207852305
+item_0304,Camera 304,electronics,popular|sale|premium,330.552049245438
+item_0305,Basketball 305,sports,new|premium,423.9598657603503
+item_0306,Smart Phone 306,electronics,durable|new|sale|premium,211.00045258893084
+item_0307,Puzzle 307,toys,eco-friendly|new|stylish|trending|popular,473.3120451272955
+item_0308,Lipstick 308,beauty,popular|sale|stylish|durable|trending,174.99113266724657
+item_0309,Sofa 309,home,new|premium|durable|stylish|sale,260.80030843240644
+item_0310,Chair 310,home,trending|stylish|new|popular|eco-friendly,413.992772659806
+item_0311,Board Game 311,toys,popular|eco-friendly,141.83501698943797
+item_0312,Chair 312,home,trending|durable,253.73157595079886
+item_0313,Moisturizer 313,beauty,trending|stylish|durable|eco-friendly|sale,195.03824926867085
+item_0314,Dumbbells 314,sports,popular|eco-friendly|new|trending,357.47712586411853
+item_0315,Headphones 315,electronics,eco-friendly|new,296.96419419282427
+item_0316,Smart Phone 316,electronics,durable|premium|popular|trending|new,360.23698566463713
+item_0317,Basketball 317,sports,popular|premium,251.12046136823707
+item_0318,Manual 318,books,sale|eco-friendly|new,128.40259455791508
+item_0319,Biography 319,books,eco-friendly|sale,109.02040674269992
+item_0320,T-Shirt 320,clothing,trending|durable|new,389.91328102871415
+item_0321,Laptop 321,electronics,durable|stylish|sale|premium|new,377.0139465817543
+item_0322,Dress 322,clothing,new|trending|durable|popular,258.4265554889362
+item_0323,Lipstick 323,beauty,eco-friendly|premium,24.607254198374804
+item_0324,Building Blocks 324,toys,sale|eco-friendly|popular|new|durable,341.46453488682243
+item_0325,Puzzle 325,toys,sale|new|popular|durable,241.64682105054487
+item_0326,Smart Phone 326,electronics,premium|durable,466.7024597569251
+item_0327,Running Shoes 327,sports,popular|durable,260.3341440300854
+item_0328,Dress 328,clothing,sale|premium|popular|trending,394.8789603332341
+item_0329,Sofa 329,home,premium|sale|stylish|durable,202.25442063596427
+item_0330,Building Blocks 330,toys,sale|premium|popular|trending,13.945784596387787
+item_0331,Cookbook 331,books,popular|premium|eco-friendly,497.33712842220257
+item_0332,Running Shoes 332,sports,eco-friendly|durable|sale,219.237750064153
+item_0333,Building Blocks 333,toys,premium|sale,189.5278622057267
+item_0334,Manual 334,books,sale|durable|eco-friendly|premium,463.18834264473895
+item_0335,T-Shirt 335,clothing,premium|popular|sale,333.76310897958354
+item_0336,Jacket 336,clothing,stylish|trending|new,71.00409640393622
+item_0337,Moisturizer 337,beauty,premium|trending,372.2425419873679
+item_0338,Chair 338,home,stylish|popular|trending,491.0901841535914
+item_0339,Running Shoes 339,sports,durable|sale,437.01151166323314
+item_0340,Bed 340,home,eco-friendly|premium|sale|new|trending,40.943108934363096
+item_0341,Snacks 341,food,trending|sale|stylish|new|eco-friendly,447.3213054016214
+item_0342,Jeans 342,clothing,durable|popular|premium|stylish,61.364666266021445
+item_0343,Foundation 343,beauty,popular|stylish|eco-friendly|premium|durable,272.9442423989297
+item_0344,Sofa 344,home,eco-friendly|popular|new|trending|stylish,354.16313265196004
+item_0345,Tablet 345,electronics,durable|trending|premium,420.7667810693919
+item_0346,Shoes 346,clothing,new|stylish|durable|popular,280.57586917077947
+item_0347,Building Blocks 347,toys,stylish|popular|trending|eco-friendly|new,279.4946012359663
+item_0348,Building Blocks 348,toys,durable|premium|eco-friendly|stylish,141.62046444878487
+item_0349,Laptop 349,electronics,premium|new,366.82888260968326
+item_0350,Table 350,home,trending|new|eco-friendly,424.93180439923304
+item_0351,Tablet 351,electronics,durable|sale,32.81803164191359
+item_0352,Chair 352,home,trending|durable|sale|eco-friendly|popular,322.5125196360638
+item_0353,Shoes 353,clothing,sale|durable,399.06183221039737
+item_0354,Puzzle 354,toys,durable|premium|sale|stylish,478.94475147114855
+item_0355,Laptop 355,electronics,stylish|premium|trending|popular,124.38198821739094
+item_0356,Coffee 356,food,eco-friendly|premium,307.13186233039033
+item_0357,Perfume 357,beauty,stylish|new|sale|durable|trending,40.392188922863724
+item_0358,Novel 358,books,trending|premium|sale,372.7533623221815
+item_0359,Chair 359,home,eco-friendly|durable|stylish|trending,80.38720888533861
+item_0360,Sofa 360,home,stylish|eco-friendly|popular|premium|durable,323.4354907270225
+item_0361,Camera 361,electronics,durable|popular,154.86065269745188
+item_0362,Jacket 362,clothing,trending|stylish|new,351.30008886606896
+item_0363,Tablet 363,electronics,new|sale,151.96054508118056
+item_0364,Cookbook 364,books,popular|new|durable|premium|eco-friendly,292.70316889554056
+item_0365,Board Game 365,toys,eco-friendly|stylish,36.1932018517672
+item_0366,Cookbook 366,books,new|stylish|durable,415.99019014787024
+item_0367,Laptop 367,electronics,popular|eco-friendly|sale|trending,67.18590138920912
+item_0368,Table 368,home,premium|eco-friendly|durable|popular,481.9014152538799
+item_0369,Moisturizer 369,beauty,stylish|trending|eco-friendly|popular,337.49804016986667
+item_0370,Running Shoes 370,sports,sale|new|stylish|eco-friendly,46.64620060640394
+item_0371,Snacks 371,food,trending|new,251.51079797660105
+item_0372,Table 372,home,sale|premium|new|popular|stylish,323.4260224414464
+item_0373,Tea 373,food,popular|trending,234.81313452556313
+item_0374,Running Shoes 374,sports,durable|sale|premium,189.7369464301797
+item_0375,Table 375,home,sale|durable|stylish,494.4982705406123
+item_0376,Building Blocks 376,toys,premium|popular,436.62559403319045
+item_0377,Shampoo 377,beauty,durable|stylish|popular|new|premium,430.9917625398663
+item_0378,T-Shirt 378,clothing,trending|new|sale,269.7456011026356
+item_0379,Sofa 379,home,sale|stylish|popular|premium|eco-friendly,477.0032152725246
+item_0380,Dress 380,clothing,trending|popular|durable|premium|stylish,393.67418456969847
+item_0381,Jacket 381,clothing,premium|sale|trending|popular|eco-friendly,219.10031496932632
+item_0382,Cookbook 382,books,premium|popular|stylish|sale|eco-friendly,127.52236344821426
+item_0383,Running Shoes 383,sports,new|trending|popular,413.71934363546967
+item_0384,Camera 384,electronics,sale|eco-friendly|durable|new|trending,160.61545079209407
+item_0385,Tea 385,food,durable|new|trending|popular|stylish,469.4913602487568
+item_0386,Coffee 386,food,sale|popular|trending|eco-friendly|new,199.61092896369126
+item_0387,Camera 387,electronics,trending|new|premium|popular|stylish,44.440930874660154
+item_0388,Jacket 388,clothing,new|popular,460.92026840417486
+item_0389,Board Game 389,toys,stylish|sale|durable|trending,122.7855706089392
+item_0390,Building Blocks 390,toys,durable|popular|stylish,423.19714551739395
+item_0391,Building Blocks 391,toys,eco-friendly|premium,432.682869862121
+item_0392,T-Shirt 392,clothing,trending|new,306.8938152046137
+item_0393,Cookbook 393,books,stylish|trending|eco-friendly|sale|new,142.66348860985065
+item_0394,Shoes 394,clothing,eco-friendly|trending|premium,495.3239336278382
+item_0395,Lamp 395,home,popular|eco-friendly|stylish|new|premium,475.0747549291656
+item_0396,T-Shirt 396,clothing,sale|eco-friendly|premium|trending,255.38195056089472
+item_0397,Foundation 397,beauty,stylish|trending|popular,301.8191473988681
+item_0398,Running Shoes 398,sports,popular|eco-friendly|stylish|sale,180.90738838069026
+item_0399,Running Shoes 399,sports,premium|new|stylish|trending,148.0587633874529
+item_0400,Lipstick 400,beauty,sale|eco-friendly|premium|new,473.9159698934757
+item_0401,Jeans 401,clothing,new|stylish|durable|trending|popular,139.36778224840728
+item_0402,Tablet 402,electronics,popular|stylish|trending|durable,158.9049083057027
+item_0403,Novel 403,books,popular|eco-friendly|durable|premium,173.37565080252037
+item_0404,Shampoo 404,beauty,durable|stylish|trending|premium,175.886877340401
+item_0405,Building Blocks 405,toys,premium|durable|new|trending,287.30753685910315
+item_0406,Table 406,home,durable|premium|eco-friendly|new|popular,460.963445219411
+item_0407,Table 407,home,popular|durable,122.30060635461477
+item_0408,Bed 408,home,durable|trending|eco-friendly|popular|stylish,113.43531111445179
+item_0409,Board Game 409,toys,durable|stylish|sale|new|trending,331.8116139214043
+item_0410,Moisturizer 410,beauty,popular|premium|trending|stylish|durable,474.59977445994986
+item_0411,Building Blocks 411,toys,popular|new|durable,464.05456409138816
+item_0412,Shampoo 412,beauty,durable|stylish,210.10946340867332
+item_0413,Biography 413,books,new|premium,312.9744980934508
+item_0414,Building Blocks 414,toys,premium|eco-friendly|popular|sale,54.65476488456187
+item_0415,Perfume 415,beauty,durable|eco-friendly|premium|new,341.1492845438851
+item_0416,Action Figure 416,toys,stylish|eco-friendly|trending,226.84323573087377
+item_0417,Laptop 417,electronics,trending|popular|new,29.255938282113732
+item_0418,Manual 418,books,premium|new,224.73147232905896
+item_0419,Lipstick 419,beauty,sale|premium|popular|eco-friendly|durable,53.04953031999212
+item_0420,Bed 420,home,new|premium|popular,486.70694916273374
+item_0421,Chair 421,home,durable|sale|trending|popular,208.42343259144218
+item_0422,Basketball 422,sports,new|premium,29.89758408167266
+item_0423,Laptop 423,electronics,new|eco-friendly|stylish,265.43052734460287
+item_0424,Yoga Mat 424,sports,premium|sale|durable,253.42032603798663
+item_0425,Table 425,home,trending|stylish|sale,270.6887313648503
+item_0426,Chair 426,home,popular|durable|eco-friendly,217.60144071274533
+item_0427,Shampoo 427,beauty,eco-friendly|stylish,482.72140420496424
+item_0428,Laptop 428,electronics,popular|sale|trending,208.86753161416024
+item_0429,Board Game 429,toys,popular|durable|sale|new|eco-friendly,344.95460832910777
+item_0430,Foundation 430,beauty,new|popular,309.1014898098964
+item_0431,Building Blocks 431,toys,eco-friendly|trending|durable|stylish,89.2037644786794
+item_0432,Shampoo 432,beauty,eco-friendly|new|trending|sale|popular,227.57894488978351
+item_0433,Doll 433,toys,sale|durable|popular|trending|new,260.74599691901165
+item_0434,Dress 434,clothing,trending|sale|eco-friendly,272.3700098272429
+item_0435,Biography 435,books,durable|new|eco-friendly|sale|premium,208.14433835096034
+item_0436,Yoga Mat 436,sports,new|eco-friendly|trending,340.45438865229977
+item_0437,Puzzle 437,toys,sale|eco-friendly|trending|popular|durable,468.68250059723596
+item_0438,Jeans 438,clothing,new|trending|durable|premium|eco-friendly,224.307900797371
+item_0439,Board Game 439,toys,eco-friendly|stylish|durable|premium|sale,467.35231581518747
+item_0440,Camera 440,electronics,trending|eco-friendly|premium|durable,345.45206455700014
+item_0441,T-Shirt 441,clothing,durable|stylish|eco-friendly|sale,282.29128930893296
+item_0442,Bed 442,home,stylish|sale,104.65095344966778
+item_0443,Moisturizer 443,beauty,popular|premium|sale|trending,326.0413084060395
+item_0444,Basketball 444,sports,sale|eco-friendly|durable|stylish|premium,373.2372098555466
+item_0445,Headphones 445,electronics,eco-friendly|new|durable|premium,268.9494863588585
+item_0446,Action Figure 446,toys,popular|durable,301.0505690715009
+item_0447,Biography 447,books,premium|new|durable|eco-friendly,208.36774565276042
+item_0448,Action Figure 448,toys,premium|durable|new|stylish|eco-friendly,333.6724618545938
+item_0449,Shoes 449,clothing,new|stylish|durable|sale|trending,371.8073676832398
+item_0450,Bed 450,home,premium|stylish|trending|eco-friendly|durable,490.6001254226988
+item_0451,T-Shirt 451,clothing,stylish|sale|new|popular,105.62069222497438
+item_0452,Lipstick 452,beauty,sale|popular|new|trending,477.1669536634737
+item_0453,Tea 453,food,new|popular,177.52184780749636
+item_0454,Jeans 454,clothing,popular|durable|stylish|trending,276.513434071268
+item_0455,Cookbook 455,books,popular|eco-friendly|new|stylish,16.25911790198745
+item_0456,Snacks 456,food,stylish|new|durable,367.6240934688321
+item_0457,Running Shoes 457,sports,sale|stylish,240.69171331854594
+item_0458,Chocolate 458,food,sale|new|trending|stylish,172.2163024741537
+item_0459,Action Figure 459,toys,premium|new|durable|trending,229.13620254784018
+item_0460,Puzzle 460,toys,durable|stylish|trending,81.00533179902479
+item_0461,Coffee 461,food,eco-friendly|new|popular,14.175484197573546
+item_0462,Building Blocks 462,toys,durable|new|stylish|premium|eco-friendly,399.5370812362217
+item_0463,Headphones 463,electronics,eco-friendly|stylish|popular|durable,298.7354757223105
+item_0464,T-Shirt 464,clothing,sale|premium|stylish|durable|popular,277.5365830015463
+item_0465,Puzzle 465,toys,new|stylish|sale|popular,244.16266736967506
+item_0466,Shampoo 466,beauty,stylish|new|trending,347.94745352452264
+item_0467,Cookbook 467,books,popular|durable|eco-friendly|sale|trending,434.054347295099
+item_0468,Shoes 468,clothing,premium|new|popular|durable,298.5502185987491
+item_0469,T-Shirt 469,clothing,sale|popular|eco-friendly,208.74214311354513
+item_0470,Building Blocks 470,toys,sale|stylish,155.43010883528063
+item_0471,Foundation 471,beauty,stylish|eco-friendly|trending,383.35486248067235
+item_0472,Bed 472,home,eco-friendly|stylish,196.57611035728272
+item_0473,Chocolate 473,food,new|premium|stylish|eco-friendly|durable,95.90234615217342
+item_0474,Dumbbells 474,sports,trending|sale|premium|eco-friendly,119.26312272286334
+item_0475,Cookbook 475,books,sale|premium,158.98218212154572
+item_0476,Cereal 476,food,premium|trending|new|stylish|durable,481.54631727841104
+item_0477,Lamp 477,home,popular|stylish|trending|premium|sale,96.21139991434843
+item_0478,Lamp 478,home,new|popular,444.85732254983486
+item_0479,Cereal 479,food,new|sale,329.88591512878094
+item_0480,Doll 480,toys,trending|sale|premium|popular,18.188435931485877
+item_0481,Action Figure 481,toys,eco-friendly|durable|trending|sale|new,471.6783241235079
+item_0482,Snacks 482,food,premium|popular,28.77053877581098
+item_0483,Cereal 483,food,stylish|sale,419.60922205069613
+item_0484,Tea 484,food,trending|sale|eco-friendly|stylish|durable,410.3494915184978
+item_0485,Jeans 485,clothing,sale|trending|durable,494.26140878341397
+item_0486,Chair 486,home,premium|stylish,204.5634313308439
+item_0487,Perfume 487,beauty,durable|popular|new|trending,451.58249627011116
+item_0488,Foundation 488,beauty,stylish|popular|premium,25.248871394591713
+item_0489,Tennis Racket 489,sports,trending|popular|new|premium|durable,150.19489138165287
+item_0490,Dumbbells 490,sports,trending|eco-friendly,14.694697398472519
+item_0491,Perfume 491,beauty,stylish|new|sale|durable|popular,26.707952216709074
+item_0492,Cookbook 492,books,durable|eco-friendly|new|sale|popular,232.50583685612293
+item_0493,Chair 493,home,premium|new|eco-friendly|popular,280.25178232671675
+item_0494,Dumbbells 494,sports,popular|eco-friendly|trending|new|sale,384.151217598622
+item_0495,Chocolate 495,food,sale|durable|stylish|trending|premium,177.1116262432025
+item_0496,Chocolate 496,food,trending|stylish,185.14856404377306
+item_0497,Puzzle 497,toys,eco-friendly|new,17.25367718104743
+item_0498,Camera 498,electronics,sale|trending|eco-friendly,10.472831303346352
+item_0499,Puzzle 499,toys,new|stylish|sale|durable|popular,459.9874137104986

@@ -1,0 +1,57 @@
+# Graph-based Recommendation System Configuration
+
+# Data settings
+data:
+  interactions_file: "data/interactions.csv"
+  items_file: "data/items.csv"
+  users_file: "data/users.csv"
+  min_interactions_per_user: 5
+  min_interactions_per_item: 5
+  test_size: 0.2
+  val_size: 0.1
+
+# Model settings
+models:
+  random_walk:
+    num_walks: 100
+    walk_length: 10
+    top_n: 10
+    
+  lightgcn:
+    embedding_dim: 64
+    num_layers: 3
+    learning_rate: 0.001
+    epochs: 100
+    batch_size: 1024
+    
+  graphsage:
+    embedding_dim: 64
+    num_layers: 2
+    learning_rate: 0.001
+    epochs: 100
+    batch_size: 1024
+    
+  node2vec:
+    embedding_dim: 64
+    walk_length: 80
+    num_walks: 10
+    p: 1.0
+    q: 1.0
+    window_size: 10
+    epochs: 5
+
+# Evaluation settings
+evaluation:
+  metrics: ["precision@5", "precision@10", "recall@5", "recall@10", "ndcg@5", "ndcg@10", "hit_rate@5", "hit_rate@10"]
+  k_values: [5, 10, 20]
+  
+# Random seeds for reproducibility
+random_seed: 42
+numpy_seed: 42
+torch_seed: 42
+
+# Logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "logs/recommendation_system.log"
